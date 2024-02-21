@@ -28,5 +28,10 @@ Deklaruj metodu pro výpůjčku automobilu. Metoda zkontroluje, zda-li je vozidl
 V programu proveďte pro všechny vozidla výpůjčku. Nasimulujte situaci, že chcete jedno vozidlo vypůjčit dvakrát.
 Pro úspěšnou výpůjčku zobrazte uživateli "Vozidlo úspěšně zapůjčeno". Pokud je vozidlo již půjčené, zobrazíte text "Vozidlo není k dispozici".
 
+### 6 Vrácení auta
+Deklaruj metodu pro vrácení auta. Při vrácení auta budete od uživatele chtít zadat stav tachometru při vrácení a počet dní, po které zákazník auto používal. Uložte stav tachometru do atributu objektu. Nastav vozidlo jako volné.
 
+Funkce bude vracet cenu za zápůjčku. Pro jednoduchost počítejme, že jednotná cena pro všechna naše vozidla je 2000 Kč/den.
+
+Zobrazte uživateli informativní zprávu, kolik zaplatí za zápůjčku.
 
